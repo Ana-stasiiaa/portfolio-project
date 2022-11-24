@@ -66,6 +66,9 @@ p {
   margin: 30px;
 }
 
+.img-fluid{
+  margin: 50px;
+}
 
 .btn-branding {
   background: var(--primary-color);
