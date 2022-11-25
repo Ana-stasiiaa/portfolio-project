@@ -22,10 +22,13 @@ h6 {
 
 h1 {
   font-size: 96px;
+  line-height: 1.5;
 }
 
 p {
   font-weight: normal;
+  font-size:16px;
+  line-height: 30px;
 }
 
 .hero {
@@ -44,7 +47,7 @@ p {
 .hero h2 {
   font-family: var(--heading-font-family);
   font-weight: normal;
-  line-height: 2;
+  line-height: 1.5;
   font-size: 24px;
 }
 
@@ -53,7 +56,6 @@ p {
 }
 
 .content h1 {
-  margin: 50px;
   font-size: 64px;
   line-height: 80px;
 }
@@ -78,9 +80,6 @@ p {
   margin: 30px;
 }
 
-.img-fluid{
-  margin: 50px;
-}
 
 .btn-branding {
   background: var(--primary-color);
